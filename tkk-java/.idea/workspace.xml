@@ -19,7 +19,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bff093e-c1fa-4120-ae31-aea10eb5cbb3" name="Default Changelist" comment="" />
+    <list default="true" id="0bff093e-c1fa-4120-ae31-aea10eb5cbb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/bin/nomor_dua.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/bin/nomor_empat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/bin/nomor_lima.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/bin/nomor_satu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/bin/nomor_tiga.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkk-dart/tkk-dart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tesKompetensiTeknis/NomorDua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tesKompetensiTeknis/NomorEmpat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tesKompetensiTeknis/NomorLima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tesKompetensiTeknis/NomorSatu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tesKompetensiTeknis/NomorTiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkk-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +84,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.NomorLima">
+  <component name="RunManager" selected="Application.NomorDua">
     <configuration name="NomorDua" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tesKompetensiTeknis.NomorDua" />
       <module name="tkk-java" />
@@ -122,12 +150,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NomorDua" />
         <item itemvalue="Application.NomorLima" />
         <item itemvalue="Application.NomorEmpat" />
         <item itemvalue="Application.NomorTiga" />
-        <item itemvalue="Application.NomorDua" />
         <item itemvalue="Application.NomorSatu" />
       </list>
     </recent_temporary>
@@ -142,6 +181,7 @@
       <updated>1627575013027</updated>
       <workItem from="1627575014149" duration="333000" />
       <workItem from="1627576285804" duration="50000" />
+      <workItem from="1627576627560" duration="80000" />
     </task>
     <servers />
   </component>
@@ -161,21 +201,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1627575349398">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1627576707719">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1627575349398" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1627575349398">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1627576707719" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1627576707718">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1627575349398" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1627575349398">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1627576707718" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1627576707718">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1627575349398" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1627575349398">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1627576707718" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1627576707718">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1627575349398" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1627576707718" />
   </component>
 </project>
